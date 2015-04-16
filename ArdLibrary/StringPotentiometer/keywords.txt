@@ -1,0 +1,4 @@
+StringPotentiometer KEYWORD1
+getMeasure  KEYWORD2
+setDirection KEYWORD2
+isFinished KEYWORD2
